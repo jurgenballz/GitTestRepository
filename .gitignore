@@ -1,0 +1,7 @@
+#File setup to indicate to Git which file types to ignore
+
+#Ignore .DS_Store and similar files
+*.DS
+
+#Ignore anything ending in ~
+~

@@ -1,0 +1,1 @@
+Adding stuff so Git knows I made a change. Adding more to see how working file changes affect Git status.
